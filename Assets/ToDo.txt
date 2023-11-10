@@ -1,8 +1,4 @@
 TO DO
 
 -Animación inicial
--Añadir musica
--Que al pulsar botones se active el sonido
--Boton de pantalla completa (Script)
--Boton de cerrar juego (Script)
 -Boton de audio / Musica, que cambie el sprite cuando el spider vaya a 0
