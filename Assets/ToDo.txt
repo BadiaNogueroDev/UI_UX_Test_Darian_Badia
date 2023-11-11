@@ -1,4 +1,0 @@
-TO DO
-
--Animación inicial
--Boton de audio / Musica, que cambie el sprite cuando el spider vaya a 0
